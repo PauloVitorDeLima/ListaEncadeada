@@ -9,6 +9,7 @@ namespace MusicPlayer.Controller
     class List
     {
         //Nó da Cabeça e calda
+        //aa
         private Node begin = null, end = null;
 
         internal Node Begin { get => begin; set => begin = value; }
